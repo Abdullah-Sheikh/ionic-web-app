@@ -1,0 +1,7 @@
+{
+  "name": "strachout",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

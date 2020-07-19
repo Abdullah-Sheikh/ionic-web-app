@@ -1,0 +1,7 @@
+
+
+Browser SYNC:
+browser-sync start --server --directory --files "**/*"
+
+commit:
+git commit -m "First web file."
